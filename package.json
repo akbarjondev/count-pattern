@@ -1,0 +1,13 @@
+{
+  "name": "strlib",
+  "version": "1.0.0",
+  "description": "This package is used for count given pattern in the given text. Works like a regexp search.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": ["count text", "count patterns", "count pattern in text"],
+  "author": "akbarjondev",
+  "license": "ISC"
+}
