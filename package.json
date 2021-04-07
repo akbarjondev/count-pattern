@@ -7,7 +7,15 @@
     "start": "node index.js",
     "start:dev": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbarjondev/count-pattern.git"
+  },
   "keywords": ["count text", "count patterns", "count pattern in text", "occurrence", "match"],
   "author": "akbarjondev",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbarjondev/count-pattern/issues"
+  },
+  "homepage": "https://github.com/akbarjondev/count-pattern#readme"
 }
