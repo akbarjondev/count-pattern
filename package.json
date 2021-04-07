@@ -1,5 +1,5 @@
 {
-  "name": "strlib",
+  "name": "count-pattern",
   "version": "1.0.0",
   "description": "This package is used for count given pattern in the given text. Works like a regexp search.",
   "main": "index.js",
