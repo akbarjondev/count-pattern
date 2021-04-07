@@ -1,7 +1,7 @@
 # count-pattern
 _Pattern counter in text without build in function, Ever_
 
-## Installation
+## Usage
 ```javascript
 const cp = require('count-pattern')
 const result = cp('banana', 'an')
