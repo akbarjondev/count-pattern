@@ -2,7 +2,7 @@
 _Pattern counter in text without build in function, Ever_
 
 ## Installation
-```
+```javascript
 const cp = require('count-pattern')
 const result = cp('banana', 'an')
 console.log(result) //2

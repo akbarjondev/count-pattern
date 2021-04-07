@@ -1,13 +1,13 @@
 {
   "name": "count-pattern",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "This package is used for count given pattern in the given text. Works like a regexp search.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "start:dev": "nodemon index.js"
   },
-  "keywords": ["count text", "count patterns", "count pattern in text"],
+  "keywords": ["count text", "count patterns", "count pattern in text", "occurrence", "match"],
   "author": "akbarjondev",
   "license": "ISC"
 }
