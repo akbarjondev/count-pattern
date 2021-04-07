@@ -59,4 +59,4 @@ const count = (input, regexp) => {
 	return ready
 }
 
-module.exports.count = count
+module.exports = count
